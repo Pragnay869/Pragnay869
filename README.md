@@ -26,4 +26,12 @@ stats.vercel.app/api?username=renukacsit&show_icons=true&theme=radical)
 langs/?username=renukacsit&layout=compact)
 
 ## Connect with Me- Email: Prgnay@example.com- LinkedIn: [Pragnay
-Profile](https://linkedin.com/in/Pragnay-example)
+Profile](https://linkedin.com/in/Pragnay-example
+color string
+Background color of the right part (hex, rgb, rgba, hsl, hsla and css named colors supported).
+
+Example: fedcba
+logo string
+Icon slug from simple-icons. You can click the icon title on simple-icons to copy the slug or they can be found in the slugs.md file in the simple-icons repository. Further info.
+
+Example: appveyor
