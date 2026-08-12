@@ -1,10 +1,10 @@
-# Hi there, I'm Pragnay! 👋
+## Hi there, I'm Pragnay! 👋
 
 I'm passionate about **Full Stack Development**.
 
-🔐 **Cybersecurity**  
+🔐 Cybersecurity  
 🌱 Currently learning: **Spring Boot, MongoDB, and GitHub Actions**  
-💡 Fun fact: I once debugged a 50-line error just by adding a semicolon!
+💡 Fun fact: I once debugged a 50-line error just by adding a semicolon 😅
 
 ## 🛠️ Skills & Tools
 
@@ -15,7 +15,10 @@ I'm passionate about **Full Stack Development**.
 
 ## 📊 GitHub Stats
 
-![Pragnay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pragnay869&show_icons=true&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pragnay869&show_icons=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragnay869&layout=compact&hide_border=true" height="180"/>
+</p>
 
 ## 🤝 Connect with Me
 
