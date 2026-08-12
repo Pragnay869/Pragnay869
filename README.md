@@ -18,6 +18,10 @@ I'm passionate about **Full Stack Development**.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pragnay869&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragnay869&layout=compact&theme=radical)
+lines (Pragnay869):
+
+⚫ ![GitHub Stats](https://github-readme-
+stats.vercel.app/api?username=renuka1163&show_icons=true)
 
 ## 🤝 Connect with Me
 
